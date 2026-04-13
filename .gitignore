@@ -1,0 +1,11 @@
+# Folders
+.vscode/
+.idea/
+node_modules/
+
+# Firebase
+firebase-service-account.json
+
+# Files
+package-lock.json
+/.env
